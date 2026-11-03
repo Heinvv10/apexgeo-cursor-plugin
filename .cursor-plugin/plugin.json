@@ -1,0 +1,14 @@
+{
+  "name": "apexgeo",
+  "version": "1.0.0",
+  "description": "See how AI answers mention your brand and competitors, read recent mentions and get prioritised recommendations from your ApexGEO account.",
+  "author": {
+    "name": "ApexGEO (Brightsphere Technologies)",
+    "email": "support@apexgeo.app"
+  },
+  "homepage": "https://apexgeo.app",
+  "repository": "https://github.com/Heinvv10/apexgeo-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["apexgeo", "geo", "ai-visibility", "brand-monitoring", "mcp"],
+  "logo": "assets/apexgeo-logo-512.png"
+}

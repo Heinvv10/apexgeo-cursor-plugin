@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "apexgeo": {
+      "url": "https://apexgeo.app/api/v1/mcp"
+    }
+  }
+}
